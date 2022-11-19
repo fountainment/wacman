@@ -6,8 +6,8 @@
 #include "robinhood/robinhood.h"
 
 /* Forward Declarations */
-typedef struct ALCcontext_struct ALCcontext;
-typedef struct ALCdevice_struct ALCdevice;
+typedef struct ALCcontext ALCcontext;
+typedef struct ALCdevice ALCdevice;
 
 namespace pac
 {

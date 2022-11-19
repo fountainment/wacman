@@ -7,7 +7,7 @@ message(STATUS "Getting sol2 from GitHub.")
 FetchContent_Declare(
     sol2_external
     GIT_REPOSITORY https://github.com/ThePhD/sol2.git
-    GIT_TAG v3.0.3
+    GIT_TAG v3.3.0
     GIT_PROGRESS TRUE
 )
 
